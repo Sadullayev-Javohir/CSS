@@ -1,0 +1,2 @@
+Bu kodni yozishda background-attachment: fixed; dan 
+foydalangan holda kodni yozishingiz talab qilinadi.

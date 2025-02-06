@@ -1,0 +1,5 @@
+2 ta h1 tegini va bo'sh div yarating va yana 2 ta h1
+yarating. h1 ichidagi ma'lumot qanchalik ko'p bo'lsa 
+shuncha yaxshi. css orqali div ni chaqirib width
+va height o'rnating. Orqa fonni harakatlantirish uchun
+background-attachment dan foydalaning.

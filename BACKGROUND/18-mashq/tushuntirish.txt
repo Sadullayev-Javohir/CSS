@@ -1,0 +1,2 @@
+body ga background-color: orange ni o'rnatish uchun 
+kodni o'rnating.

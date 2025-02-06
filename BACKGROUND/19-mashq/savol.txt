@@ -1,0 +1,4 @@
+h1 va div yarating. div ning ichiga p tegi bo'lishi kerak.
+Endi h1 orqa foniga yashil, div ning orqa foniga och ko'k
+rang va p ning orqa foniga sariq rang o'rnatish uchun kod 
+yozing.

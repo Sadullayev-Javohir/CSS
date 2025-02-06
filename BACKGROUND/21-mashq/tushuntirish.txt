@@ -1,0 +1,3 @@
+body dagi orqa rasmning fonini x o'qi bo'yicha takrorlash
+uchun background-repeat xususiyatidan foydalangan holda
+kodni yozishni amalga oshiring.

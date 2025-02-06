@@ -1,0 +1,5 @@
+h1 va p tegini hosil qiling. Keyin body ning orqa foniga
+rasm o'rnating. orqa fonidagi rasm takrorlanmasligi
+uchun kerakli kodni yozing. background-position ning 
+qiymatini right top holatida o'rnating va margin-right: 200px;
+kodini yozing.
