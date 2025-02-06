@@ -1,0 +1,5 @@
+Kodni yozishda css faylnni yaratib olishingiz kerak. Keyingi
+bosqichda siz <link rel="stylesheet" href=""> tegini
+yozing. href="" qo'shtirnoq ichiga fayl nomi yoziladi.
+Va h1 ning rangi ko'k ga o'rnatiladi va body ning ichiga
+background-color ga och ko'k ni o'rnating.

@@ -1,0 +1,4 @@
+internal html fayli ichidagi head tegidan keyingi style
+tegi ichiga yoziladigan kod internal hisoblanadi.
+Tashqi css fayl yaratib link orqali css 
+faylini ulash external hisoblanadi. 

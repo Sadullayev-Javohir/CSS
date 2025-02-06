@@ -1,0 +1,1 @@
+Bu kodda faqat css ni inline yo'li orqali kodini yozing.

@@ -1,0 +1,4 @@
+h1 tegiga style berishda color: maroon; va o'nga surish
+uchun margin-left: 40px; va body ga background-color: linen; 
+kodidan foydalangan holda vazifani bajaring. Bu kodning
+css qismini yozishda internal qoidasi bilan yozing.

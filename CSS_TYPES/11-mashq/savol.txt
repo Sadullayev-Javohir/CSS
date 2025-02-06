@@ -1,0 +1,5 @@
+css da kod yozishda internal va external dan foydalangan
+holda kod yozing. h1 va p tegini yarating. Css da internal
+uslubida h1 rangini orange ga o'rnating. External uslubida
+esa body ning background-color ni och ko'kka o'rnatish
+uchun kod yozing.

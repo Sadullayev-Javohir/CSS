@@ -1,0 +1,5 @@
+h1 va p tegini yarating. faqat h1 tegiga rangni "maroon" 
+ga o'rnating va o'nga 40px surish va body ning background-color
+qismiga linen ni qo'llash uchun kod yozing.
+Bu kodni yozishda internal yo'li bilan hosil qiling.
+
