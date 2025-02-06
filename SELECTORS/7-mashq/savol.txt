@@ -1,0 +1,4 @@
+h1, h2 va p teglarini yozing. Lekin ularning ichi bo'sh
+bo'lmasligi kerak. Endi h1, h2 va p tegi orqali css ga
+rang bering va matnni markazlahtirish uchun kod yozing.
+

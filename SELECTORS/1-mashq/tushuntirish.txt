@@ -1,0 +1,2 @@
+Birinchi o'rinda p teglarining rangini qizil ranga o'tkazing.
+va text-align orqali matnni markazlashtiring.

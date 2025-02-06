@@ -1,0 +1,4 @@
+h1 va p tegiga o'zingiz xohlagan matn yozing va ikkala
+teg ning ichiga class selector ini yozing va class nomini
+right deb nomlang va rangini orange va matnni o'ng tomonga
+surish uchun kod yozing. 

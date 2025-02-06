@@ -1,0 +1,3 @@
+Birinchi qadamlar p tegiga id nomini para1 deb nomlang.
+Keyin para1 deb nomlangan id ga rangni ko'k ga o'rnating va
+matnni markazlashtirish uchun text-align dan foydalaning.

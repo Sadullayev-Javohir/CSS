@@ -1,0 +1,3 @@
+Bu kodda ikkinchi p tegiga 2 ta class o'rnatiladi.
+right va large. Va faqat p ichidagi large ga matnni
+300% kattalashtiring.

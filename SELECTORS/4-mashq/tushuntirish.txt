@@ -1,0 +1,4 @@
+h1 va p tegi ga right class o'rnatiladi va faqat p ichidagi
+class ga murojaat qilgan holda matnni o'ngga suring va rangini
+orange ga o'rnating. Bu misolda faqat p tegi o'ngga surilishi
+va rangi orange bo'lishi kerak.

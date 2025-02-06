@@ -1,0 +1,3 @@
+4-mashqdagi html va css kodini qayta yozing va 
+yangi p tegini qo'shing va p tegiga class ga right va large deb nomlang. Va p tegidagi large class iga
+font-size: 300%; kodini yozing.

@@ -1,0 +1,3 @@
+Bu kodda css ga style berish uchun faqat html teglarini
+chaqirgan holda kod yozamiz. class, id va * dan foydalanmagan
+holda kod yozilishi shart. Ko'rsatma h1, h2, p: {}.

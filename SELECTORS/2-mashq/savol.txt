@@ -1,0 +1,5 @@
+Birinchi kelayotgan p tegiga id selector ni para1 nomi
+bilan o'rnating yozgan id rangini ko'k va matnni markzlashtirish
+uchun kod yozing.
+
+

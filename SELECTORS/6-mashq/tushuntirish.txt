@@ -1,0 +1,3 @@
+* dan foydalanib text-align:center; va color:blue; kodini
+yozing.
+

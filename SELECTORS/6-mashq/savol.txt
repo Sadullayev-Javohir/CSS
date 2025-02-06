@@ -1,0 +1,4 @@
+h1 va 3 ta p teg ini yarating va ularga matn yozing.
+Keyin esa ularning barchasiga * orqali matnni markazlashtiring
+va rangini ko'k ga o'rnating.
+

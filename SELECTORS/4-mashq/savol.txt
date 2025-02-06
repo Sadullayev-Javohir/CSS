@@ -1,0 +1,5 @@
+h1 va p tegining ichiga matn yozing va uni class selector iga 
+right deb nom bering. (3-mashqdagi html kodini nusxa olsangiz 
+ham bo'ladi. ) Sizning vazifangiz endi faqat p teg ining ichidagi
+right class ga rangini orange va matnni o'nga surish uchun 
+kod yozish.
