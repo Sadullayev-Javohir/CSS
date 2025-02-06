@@ -1,0 +1,3 @@
+misol uchun h1 {background-color: hsl(0, 91%, 41%)} va
+<h1>hsl(0, 91%, 41%)</h1> mana shu ko'rinishda kodni
+yozishni amalga oshiring.

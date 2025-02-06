@@ -1,0 +1,3 @@
+h1, h2, h3 teglarini o'rnating va ularga har biriga
+alohida rang o'rnating.
+

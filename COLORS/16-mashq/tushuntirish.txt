@@ -1,0 +1,3 @@
+misol uchun h1 {background-color: #c90a0a} va
+<h1>#c90a0a</h1> mana shu ko'rinishda kodni
+yozishni amalga oshiring.

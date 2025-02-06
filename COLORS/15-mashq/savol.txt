@@ -1,0 +1,3 @@
+6 ta h1 tegini yarating va ularning orqa foni rangini rgb orqali
+o'rnating va h1 tegi ichidagi ma'lumotlar ham orqa fon ning
+qiymati yozilishi kerak.
