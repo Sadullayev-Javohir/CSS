@@ -1,0 +1,4 @@
+2 ta p tegini yozing va ularning har biriga alohida
+class o'rnating. Birinchi p tegiga chap tomoniga 15px
+chegara o'rnating. Ikkichi p tegiga esa o'ng tomoniga
+15 px chegara o'rnatish uchun kod yozig.

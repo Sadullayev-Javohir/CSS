@@ -1,0 +1,2 @@
+Bu kodda siz matnning to'rtta tomoniga border-style
+berishingiz kerak bo'ladi.

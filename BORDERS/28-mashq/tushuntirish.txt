@@ -1,0 +1,3 @@
+Bu masalada kod yozish uchun border-left-width:15px;
+va border-right-width: 15px; lardan foydalangan holda
+kod yozishingiz kerak bo'ladi.

@@ -1,0 +1,2 @@
+26-mashqdagi kodni qayta yozing. va border-top-width ning
+o'rniga border-bottom-width ni qo'llang.

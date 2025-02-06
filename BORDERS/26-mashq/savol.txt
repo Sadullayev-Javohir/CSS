@@ -1,0 +1,3 @@
+p tegini yarating va unga css ni qo'llashda border-style: solid;
+va border-top-width dan foydalangan holda kodni yozishni
+amalga oshiring.

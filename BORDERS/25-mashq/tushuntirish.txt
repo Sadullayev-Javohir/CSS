@@ -1,0 +1,3 @@
+h1 ning har biriga class bering Va ularni har birini
+alohida class orqali chaqirib border-style bering.
+Eslatma agar border-width yozmasangiz ishlamasligi mumkin.

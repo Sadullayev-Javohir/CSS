@@ -1,0 +1,2 @@
+Bu kodda border-bottom-width: 15px; kodidan foydalangan
+holda kodni yozishni amalga oshiring.
