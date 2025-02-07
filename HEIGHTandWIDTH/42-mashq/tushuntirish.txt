@@ -1,0 +1,3 @@
+Bu mashqda % va px qanday ishlashini tushunishingiz
+mumkin. % ekran bo'yicha moslashunvchanlik px esa
+moslashunvchanlik emas.

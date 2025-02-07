@@ -1,0 +1,4 @@
+ikkita bir xil rasm ni browserda o'rnating va kengligini
+birinchisiga % da ikkinchisiga px da bering va natijani
+ko'ring.
+

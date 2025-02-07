@@ -1,0 +1,3 @@
+div tegining ichiga matn kiriting va width 500px va
+height 200px qilib o'rnating
+

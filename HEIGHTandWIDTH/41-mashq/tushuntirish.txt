@@ -1,0 +1,4 @@
+Bu mashqda max-width ni o'rnating. max-width va width
+ning farqi shundaki div ning width: 500px dan kichik
+bo'lsa matn div dan chiqib ketadi. max-width: 500px bo'lsa
+matn div dan chiqib ketmaydi. Farqi shunda.

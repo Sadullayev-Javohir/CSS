@@ -1,0 +1,3 @@
+div tegining ichiga matn kiriting va width ni max-width  500px
+qilib o'rnating
+
