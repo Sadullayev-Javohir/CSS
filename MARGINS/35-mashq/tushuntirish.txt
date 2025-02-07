@@ -1,0 +1,1 @@
+Matnni markazlashtirish uchun margin: auto; kodini yozing.

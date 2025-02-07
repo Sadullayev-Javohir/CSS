@@ -1,0 +1,4 @@
+31-mashqdagi kodni qaytadan yozing va margin ga 3 ta 
+qiymat yozing. Bunda tepadan 25px, pastdan 75px,
+o'ng va chapdan 100px joy ajratish uchun kod yozing.
+

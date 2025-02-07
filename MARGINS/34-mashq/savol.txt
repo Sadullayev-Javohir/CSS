@@ -1,0 +1,4 @@
+33-mashqdagi kodni qaytadan yozing va margin ga 1 ta 
+qiymat yozing. Bunda hamma tomonini 100px joy ajratish
+uchun kod yozing.
+

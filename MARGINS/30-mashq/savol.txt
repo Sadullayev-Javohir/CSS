@@ -1,0 +1,3 @@
+h1 va div teglarini yozing. div ni css da qo'llashda 
+border bering va tepadan 100px o'ngdan 50px chapdan 80px
+joy ajratish va div ni orqa foniga rang berish uchun kod yozing.
