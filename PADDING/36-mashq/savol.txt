@@ -1,0 +1,3 @@
+div tegining ichiga matn kiriting va padding ga 4 ta 
+qiymat yozing. Bunda tepadan 40px, pastdan 60px,
+o'ngdan 50px va chapdan 70px bo'shliq qo'shish uchun kod yozing.
