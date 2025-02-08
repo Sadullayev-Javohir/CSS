@@ -1,0 +1,2 @@
+fontawesome dan link olish uchun https://cdnjs.com/libraries/font-awesome
+sayti orqali olinadi
