@@ -1,0 +1,5 @@
+3 ta h1 tegi yoziladi va birinchi h1 tegiga matnlarning
+barchasini katta harflarda, ikkinchi h1 tegiga matnlarning
+hammasini kichik harflarda va uchinchi h1 tegiga matnlarning
+har bir so'zining birinchi harfini kattalashtirish uchun
+kod yozing.

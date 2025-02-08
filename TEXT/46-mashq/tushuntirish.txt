@@ -1,0 +1,2 @@
+Bu mashqda matnga paragraf qo'shish uchun text-indent 
+xususiyatidan foydalaning.

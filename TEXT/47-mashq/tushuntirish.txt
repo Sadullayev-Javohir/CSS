@@ -1,0 +1,2 @@
+Bu mashqda har bir gap o'rtasiga bo'sh joy qo'shish 
+uchun word-spacing dan foydalaning.

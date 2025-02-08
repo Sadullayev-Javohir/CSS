@@ -1,0 +1,2 @@
+Bu mashqda matnni markazlashtirish yoki o'ng va chapga
+joylashtirish uchun text-align dan foydalaning.

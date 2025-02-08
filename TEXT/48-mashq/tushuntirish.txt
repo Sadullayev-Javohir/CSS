@@ -1,0 +1,2 @@
+Bu mashqda soya o'rnatish uchun matn uchun ishlatiladigan
+text-shadow dan foydalaning.

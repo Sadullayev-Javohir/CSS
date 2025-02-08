@@ -1,0 +1,2 @@
+Bu mashqda matnni kattalashtirish yoki kichraytirish 
+uchun text-transform dan foydalaning.

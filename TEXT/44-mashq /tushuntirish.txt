@@ -1,0 +1,2 @@
+Bu mashqda pastki chiziqni olib tashlash uchun text-decoration
+xususiyatidan foydalaning.

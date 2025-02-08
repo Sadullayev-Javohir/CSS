@@ -1,0 +1,3 @@
+3 ta p tegini yarating va har bir p tegi ichidagi
+matnning boshiga 50px bo'sh joy (paragraf),(abzast)
+qo'shish uchun kod yozing.
