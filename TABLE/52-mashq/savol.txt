@@ -1,0 +1,3 @@
+jadval yarating va unda 3 ta qiymat bo'ladi. Ism, otasining
+ismi, va familyasi. Endi ularga 2 tadan har biriga
+qiymat qo'shing va css yordamida dizaynni optimallashtiring.

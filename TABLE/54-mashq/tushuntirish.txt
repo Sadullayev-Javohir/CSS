@@ -1,0 +1,2 @@
+Zebra dizaynini hosil qilish uchun tr:nth-child(even)
+xususiyatidan foydalaning.

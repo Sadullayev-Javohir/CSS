@@ -1,0 +1,2 @@
+Bu kodni yozishda xususiyat:hover qilgan holda
+amalga oshiring.

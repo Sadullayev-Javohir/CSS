@@ -1,0 +1,2 @@
+jadvalning dizaynini yaxshilash uchun kod yozing.
+Bunda asosiysi border va border-collapse dan foydalaning.
